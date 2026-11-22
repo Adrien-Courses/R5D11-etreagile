@@ -50,7 +50,7 @@ mat de chaque tâche** est explicite : `[ID] [P?] [Story] Description`, avec tro
 
 **Les tâches sont organisées en phases**, chacune avec son *Purpose* : `Phase 1: Setup (Shared Infrastructure)`, `Phase 2: Foundational (Blocking Prerequisites)`, puis les phases par user story. Chaque phase se termine par un **Checkpoint** — ici *« Foundation ready – user story implementation can now begin »*.
 
-Enfin, les tâches accomplies sont cochées (`[X]`) directement dans le fichier : le `tasks.md` fait office de [management visuel]({{< relref "pratiques/pilotage/management_visuel" >}}) pour l'agent comme pour l'humain, et rend visible l'avancement réel.
+Enfin, les tâches accomplies sont cochées (`[X]`) directement dans le fichier : le `tasks.md` fait office de [management visuel]({{< relref "pratiques/planifier/pilotage/management_visuel" >}}) pour l'agent comme pour l'humain, et rend visible l'avancement réel.
 
 ## L'implémentation
 

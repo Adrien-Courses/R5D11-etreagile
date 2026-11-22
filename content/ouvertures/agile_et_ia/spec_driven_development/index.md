@@ -1,7 +1,7 @@
 +++
 title = "Specification Driven Development"
 description = "Le SDD fait de la spécification l'artefact primaire et du code un produit régénérable. Pourquoi écrire du code bon marché rend la spec critique."
-weight = 10
+weight = 30
 +++
 
 > [!ressource] Ressources
