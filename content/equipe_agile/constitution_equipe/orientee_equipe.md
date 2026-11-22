@@ -34,7 +34,7 @@ Recruter seulement dans les "10% top workers" peut sembler une bonne approche, v
 Pour que les équipes fonctionnent, leurs membres doivent faire passer les besoins de l'équipe avant les leurs. Ils doivent
 - Arriver à l'heure aux réunions de travail et aux rencontres.
 - Veiller à ce que les discussions et les enquêtes restent sur la bonne voie.
-- Encourager le focus sur les objectifs de l'équipe.
+- Encourager le focus sur les objectifs de l'équipe (e.g. [Sprint Goal]({{< relref "frameworks/framework_scrum/artefact_engagements/sprint_goal" >}})).
 - Aider à débloquer les autres membres de l'équipe avant de commencer un nouveau travail.
 - Encadrer les nouveaux membres ou les membres moins expérimentés de l'équipe.
 - Éviter les arguments « gagnants » et, au lieu de cela, accepter d'explorer les options. 
